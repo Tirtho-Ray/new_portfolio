@@ -28,7 +28,7 @@ This project showcases smooth scroll-based animations, reusable components, and 
 Clone the project and install dependencies:
 
 # Clone repository
-git clone https://github.com/rupzweb/portfolio.git
+git clone https://github.com/Tirtho-Ray/new_portfolio
 
 # Go inside folder
 cd react-animated-portfolio
@@ -38,8 +38,3 @@ npm install
 
 # Start development server
 npm start
-
-
-## 👩‍💻 Author
-Built with ❤️ by Rupz Web (https://github.com/rupzweb)  
-- YouTube: Rupz Web (https://youtube.com/@rupz_web) 
